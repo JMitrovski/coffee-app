@@ -1,6 +1,6 @@
-# Interview React Native Monorepo
+# Coffee app React Native Monorepo
 
-This project, "Interview React Native Monorepo," is a mobile application developed with React Native (Expo) and a backend service built with Node.js. The app allows users to explore a variety of coffee options, customize them with specific modifiers, add them to their cart, and place orders.
+This project, "Coffee app React Native Monorepo," is a mobile application developed with **React Native (Expo)** and a backend service built with **Node.js**. The app allows users to explore a variety of coffee options, customize them with specific modifiers, add them to their cart, and place orders.
 
 ## Features
 
@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 
 ## Running the Project
 
-To start the development servers for both the React Native and Node.js applications, run:
+To start the development servers for both the React Native and Node.js applications, in the root, run:
 
 ```bash
 yarn dev-kill
@@ -33,13 +33,13 @@ This command must be executed from the root folder of the monorepo, as it uses Y
 
 ### Server Details
 
-- The Node.js backend runs on `localhost:5555`, handling data retrieval and order submissions.
+- The Node.js app runs on `localhost:5555`, handling data retrieval and order submissions.
 
 ## Project Structure
 
 This monorepo contains two main projects:
 
-1. **Node.js Server**: Handles API requests, data storage, and other backend logic.
+1. **Node.js App**: Handles API requests, data storage, and other backend logic.
 2. **React Native App (Expo)**: A mobile app interface for viewing and ordering coffees.
 
 ## Usage
@@ -52,14 +52,6 @@ This monorepo contains two main projects:
 ## Configuration
 
 No additional configuration is required.
-
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch with a descriptive name.
-3. Make your changes and open a pull request.
 
 ## License
 
