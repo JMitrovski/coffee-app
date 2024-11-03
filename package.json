@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "damilah",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/backend",
+    "apps/mobile"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "yarn workspace backend start & yarn workspace damilah-expo start",
+    "dev-kill": "./start.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "cid": 1,
+    "mid": 1,
+    "value": "true"
+  },
+  {
+    "id": 2,
+    "cid": 1,
+    "mid": 2,
+    "value": "3"
+  },
+  {
+    "id": 3,
+    "cid": 1,
+    "mid": 3,
+    "value": "true"
+  },
+  {
+    "id": 4,
+    "cid": 2,
+    "mid": 3,
+    "value": "true"
+  },
+  {
+    "id": 5,
+    "cid": 3,
+    "mid": 3,
+    "value": "true"
+  },
+  {
+    "id": 6,
+    "cid": 5,
+    "mid": 5,
+    "value": "true"
+  }
+]

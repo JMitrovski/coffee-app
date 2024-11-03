@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "milk",
+    "value": "false"
+  },
+  {
+    "id": 2,
+    "name": "packsOfSuggar",
+    "value": "0"
+  },
+  {
+    "id": 3,
+    "name": "cream",
+    "value": "false"
+  },
+  {
+    "id": 4,
+    "name": "caramel",
+    "value": "false"
+  },
+  {
+    "id": 5,
+    "name": "decaf",
+    "value": "false"
+  }
+]

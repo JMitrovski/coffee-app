@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Latte",
+    "image": "https://media.istockphoto.com/id/1174632449/photo/side-view-of-hot-latte-coffee-with-latte-art-in-a-ceramic-green-cup-and-saucer-isolated-on.jpg?s=612x612&w=0&k=20&c=J4ZxqJk3EG2f4l-qcr-S1ZYOvKmzM7IXOmsdi1QmzoE=",
+    "description": "The latte combines a base of espresso with a generous amount of steamed milk, resulting in a silky, rich drink that balances the strength of the coffee with a delicate creaminess. Topped with a thin layer of microfoam, a latte is smooth and mildly sweet, making it perfect for those who enjoy a softer, milky coffee experience. It’s often a canvas for latte art, showcasing beautiful designs in the foam."
+  },
+  {
+    "id": 2,
+    "name": "Macchiato",
+    "image": "https://img.freepik.com/premium-photo/perfectly-gradient-latte-macchiato-view_1165532-7942.jpg",
+    "description": "Translating to “stained” or “marked” in Italian, the macchiato is an espresso-based drink with just a hint of foamed milk, preserving the bold, intense flavor of the coffee. The dash of milk adds a subtle sweetness without overpowering the coffee’s strong, rich profile. It’s ideal for those who love the depth of espresso but want a touch of creaminess."
+  },
+  {
+    "id": 3,
+    "name": "Espresso",
+    "image": "https://rendes.hr/wp-content/uploads/2023/03/Espresso_1x1-600x600.webp",
+    "description": "The heart of many coffee drinks, espresso is a small yet potent shot of coffee brewed by forcing hot water through finely-ground coffee beans. Its concentrated flavor is bold and intense, with a thick, rich crema on top that enhances the complexity of the coffee’s natural flavors. Espresso captures the full essence of the coffee bean in a single sip, offering a pure, unadulterated coffee experience."
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "image": "https://media.istockphoto.com/id/1359781504/photo/sweet-coffee-aroma-coffee-beans-and-morning-coffee.jpg?s=612x612&w=0&k=20&c=VOpKuJJaWE1GMDQ_XHyqbSE9TuicglE26C_5LnUwLD8=",
+    "description": "This coffee is made by adding hot water to a shot of espresso, resulting in a beverage with a similar strength to regular brewed coffee but with the rich, complex flavors of espresso. An Americano has a smooth, medium body with a well-rounded taste that balances the robust flavor of espresso with a lighter, more approachable texture, ideal for those who enjoy a strong yet mellow coffee."
+  },
+  {
+    "id": 5,
+    "name": "Black coffee",
+    "image": "https://st3.depositphotos.com/10302016/13357/i/450/depositphotos_133572380-stock-photo-cup-coffee-grey-background-top.jpg",
+    "description": "Black coffee is simply brewed coffee without milk or sugar, allowing the natural flavors of the coffee beans to shine through. It’s a straightforward, no-frills beverage, perfect for coffee purists who appreciate the subtle, nuanced notes of quality beans. Whether made with a French press, pour-over, or drip coffee maker, black coffee offers a rich, satisfying taste that varies based on the origin and roast of the beans used."
+  }
+]
