@@ -21,7 +21,9 @@ export default function CartScreen() {
       ) : (
         <>
           <FlatList
-            contentContainerStyle={{ paddingVertical: 12 }}
+            contentContainerStyle={{
+              padding: 12,
+            }}
             style={styles.flatListStyle}
             data={cartItems}
             renderItem={({ item, index }) => (
@@ -59,6 +61,5 @@ const styles = StyleSheet.create({
   flatListStyle: {
     flex: 1,
     width: "100%",
-    paddingHorizontal: 12,
   },
 });
